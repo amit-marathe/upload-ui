@@ -1,4 +1,4 @@
-#  Hey floks, Today,I am sharing social media Share's landing page eith you.
+#  Hey floks, Today,I am sharing social media Share's landing page with you.
 ## It was a nice experince while coding this.
 ## I hope you enjoy it
 <i> This design is for Desktop responisve only. </i>
