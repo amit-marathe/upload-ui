@@ -45,6 +45,7 @@ html,body{
 .navbar .logos h1{
     font-size: 1.5rem;
     font-weight: 700;
+    font-family: system-ui, -apple-system, sans-serif;
 }
 
 .navbar .links{
@@ -63,6 +64,7 @@ html,body{
     font-size: 0.89rem;
     font-weight: 500;
     text-transform: capitalize;
+    font-family: system-ui, -apple-system, sans-serif;    
 }
 
 .links a:last-child{
@@ -105,17 +107,17 @@ html,body{
 }
 
 .sub-text h1{
-    font-size: 3.5rem;
-    font-weight: 500;
+    font-size: 5rem;
+    font-weight: 700;
     padding-left: 2vw;
 }
 
 .sub-text .arrow{
-    height: 50px;
+    height: 55px;
     width: 55px;
     position: absolute;
     top: 45%;
-    right: 10%;
+    right: 15%;
     filter: invert();
     background-image: url(./images/arrow.png);
     background-position: center;
@@ -123,8 +125,8 @@ html,body{
 }
 
 .sub-text p{
-    font-size: 0.9rem;
-    font-weight: 400;
+    font-size: 1.3rem;
+    font-weight: 500;
     padding: 1.5vh 2vw;
 }
 
@@ -145,17 +147,18 @@ html,body{
 }
 
 .app i{
-    font-size: 1.7rem;
+    font-size: 1.8rem;
 }
 
 .app h3{
-    font-size: 0.9rem;
-    font-weight: 500;
+    font-size: 1.2rem;
+    font-weight: 600;
 }
 
 .app h2{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 600;
+    font-family: system-ui, -apple-system, sans-serif;
 }
 
 .sub-text .play{
@@ -176,17 +179,18 @@ html,body{
 }
 
 .play i{
-    font-size: 1.7rem;
+    font-size: 1.8rem;
 }
 
 .play h3{
-    font-size: 0.9rem;
-    font-weight: 500;
+    font-size: 1.2rem;
+    font-weight: 600;
 }
 
 .play h2{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 600;
+    font-family: system-ui, -apple-system, sans-serif;
 }
 
 .left-center .line{
@@ -200,16 +204,16 @@ html,body{
 
 .left-center .line h4{
     color: #000;
-    font-size: .7rem;
-    font-weight: 300;
+    font-size: 1rem;
+    font-weight: 500;
     padding-left: 4vw;
     margin-top: 3vh;
 }
 
 .left-center .line h5{
     color: #000;
-    font-size: .7rem;
-    font-weight: 300;
+    font-size: 1rem;
+    font-weight: 500;
     padding-left: 4vw;
 }
 
@@ -271,13 +275,14 @@ html,body{
 }
 
 #box1 .box1-text h2{
-    font-size: 1.3rem;
+    font-size: 1.7rem;
     font-weight: 600;
+    font-family: system-ui, -apple-system, sans-serif;
 }
 
 #box1 .box1-text h3{
-    font-size: 0.8rem;
-    font-weight: 500;
+    font-size: 1rem;
+    font-weight: 900;
 }
 
 #box1 .box1-text .box-line{
@@ -293,8 +298,8 @@ html,body{
 
 .box-line h4{
     color: #fff;
-    font-size: 0.7rem;
-    font-weight: 400;
+    font-size: 0.9rem;
+    font-weight: 600;
     text-transform: capitalize;
 }
 
@@ -311,9 +316,10 @@ html,body{
 }
 
 #box2 h3{
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     font-weight: 700;
     padding: 2vh 2vw;
+    font-family: system-ui, -apple-system, sans-serif;
 }
 
 #box2 .box2-text{
@@ -326,20 +332,22 @@ html,body{
 }
 
 .box2-text h1{
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-weight: 600;
     text-transform: capitalize;
+    font-family: system-ui, -apple-system, sans-serif;
 }
 
 .box2-text h2{
-    font-size: 0.8rem;
-    font-weight: 400;
+    font-size: .9rem;
+    font-weight: 600;
     text-align: center;
+    padding: 6px 0;
 }
 
 .box2-text i{
     font-size: 2rem;
-    margin-left: 38%;
+    margin-left: 42%;
 }
 
 .box2-box{
@@ -352,9 +360,10 @@ html,body{
 }
 
 .box2-box h2{
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     font-weight: 700;
     padding: 1vh 2vw;
+    font-family: system-ui, -apple-system, sans-serif;    
 }
 
 .box2-box .no{
@@ -363,9 +372,10 @@ html,body{
 }
 
 .box2-box .no h4{
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 600;
     padding-left: 1vw;
+    font-family: system-ui, -apple-system, sans-serif;    
 }
 
 .box2-box .box2-line{
@@ -391,6 +401,7 @@ html,body{
 }
 
 .box2-draft h4{
-    font-size: 0.8rem;
-    font-weight: 600;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: system-ui, -apple-system, sans-serif;    
 }
